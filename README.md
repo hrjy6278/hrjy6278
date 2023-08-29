@@ -26,12 +26,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrjy6278&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjy6278&layout=compact&theme=tokyonight)
 
-
-### Career
----
-2021.05 ~ 2021.11 야곰아카데미 iOS 스타터 캠프 3기
-
-2022.04 ~ (주)문피아 iOS 앱개발
 <!--
 **hrjy6278/hrjy6278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
